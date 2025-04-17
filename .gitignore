@@ -1,0 +1,6 @@
+# Added by goreleaser init:
+.vscode/
+dist/
+testdata/
+
+main_test.go
